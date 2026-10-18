@@ -1,0 +1,9 @@
+This is an independent API adapter, not an official Tencent product.
+
+Upstream wx_channel: https://github.com/nobiyou/wx_channel
+Copyright (c) 2025 nobiyou, MIT License.
+
+The joinMediaURL behavior follows the upstream query-token assembly algorithm
+in internal/assets/inject/download.js. The upstream MIT attribution is retained
+in LICENSE. No upstream executable, certificates, databases or account data are
+distributed here.

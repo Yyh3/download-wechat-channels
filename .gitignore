@@ -1,0 +1,16 @@
+node_modules/
+output/
+outputs/
+downloads/
+archive/
+*.mp4
+*.log
+*.db
+*.sqlite*
+.env*
+*-receipt.json
+*-verification.json
+accounts.json
+videos.json
+receipt.json
+verification.json

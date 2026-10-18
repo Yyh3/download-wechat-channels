@@ -1,0 +1,9 @@
+{
+  "name": "download-wechat-channels",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-only Codex skill adapter for existing wx_channel APIs",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test", "check": "node --check scripts/channels.mjs" }
+}
